@@ -1389,8 +1389,12 @@ a {
   .image {
     max-width: 80%;
   }
+  .gif {
+    margin-left: -4vw;
+  }
   .gif-container {
     width: auto;
+    padding-right: 0px;
   }
 }
 
