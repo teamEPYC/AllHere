@@ -33,6 +33,7 @@ a {
 }
 
 .container {
+  display: block;
   width: 100%;
   max-width: 1320px;
   padding-right: 20px;
@@ -395,6 +396,7 @@ a {
 }
 
 .section {
+  display: none;
   padding-top: 60px;
   padding-bottom: 60px;
 }
@@ -729,7 +731,6 @@ a {
 }
 
 .footer {
-  margin-top: 60px;
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #333;
